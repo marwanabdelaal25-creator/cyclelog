@@ -1,0 +1,40 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,zz-plant,Kitchen,7,2019-12-15,xxxxxxxxxxxxxxxx
+Plant 1,pothos,Office,7,2022-09-28,xxxxxxxxxxxxxx
+Plant 2,pothos,Living Room,14,2025-09-26,xxxxxxxxx
+Plant 3,snake-plant,Kitchen,14,2024-03-25,xxxxxxxxxxxxxxxx
+Plant 4,pothos,Bedroom,14,2024-09-13,xxxxxxxxxxxxxxxxxxx
+Plant 5,monstera,Office,5,2020-05-01,xxxxxxxxxxxxxxxxxxx
+Plant 6,pothos,Living Room,14,2024-04-26,xxxxxxxxxxxxxxxxxxx
+Plant 7,pothos,Kitchen,14,2021-08-12,xxx
+Plant 8,monstera,Bedroom,5,2021-10-15,x
+Plant 9,zz-plant,Living Room,10,2023-10-25,xxxxxxxx
+Plant 10,snake-plant,Office,7,2025-04-20,xx
+Plant 11,snake-plant,Living Room,14,2021-04-04,x
+Plant 12,monstera,Bedroom,5,2023-10-26,xxxxxxxxxxxx
+Plant 13,monstera,Living Room,7,2024-11-07,xxxxxxxx
+Plant 14,zz-plant,Kitchen,10,2023-01-10,xxxxxxxxxxxxxxxxxxxx
+Plant 15,monstera,Office,7,2023-10-22,xxxxxxxxxxx
+Plant 16,pothos,Office,7,2022-10-24,xxxxx
+Plant 17,pothos,Kitchen,14,2022-09-02,xxxxxxxxxxx
+Plant 18,pothos,Office,10,2023-11-12,xxxxxxxxxxxxxxxx
+Plant 19,zz-plant,Office,7,2021-12-10,
+Plant 20,zz-plant,Living Room,10,2023-03-20,xxxxxx
+Plant 21,pothos,Living Room,5,2024-01-05,xxxxxxxxxxx
+Plant 22,pothos,Kitchen,7,2021-03-05,xxxx
+Plant 23,monstera,Office,14,2024-10-04,xxxxxxxxx
+Plant 24,pothos,Bedroom,10,2021-02-20,xxxxxxxxxxxxxxxx
+Plant 25,snake-plant,Living Room,5,2023-03-08,xxxxxxxxxxxxxxxxx
+Plant 26,zz-plant,Living Room,10,2023-05-19,x
+Plant 27,snake-plant,Living Room,5,2019-07-14,xxxxxxxxxx
+Plant 28,zz-plant,Living Room,10,2023-04-12,xxx
+Plant 29,zz-plant,Kitchen,14,2025-12-03,xxxxxxxxxxxxxxxxxx
+Plant 30,monstera,Office,14,2022-06-22,xxxxxxxxxx
+Plant 31,pothos,Kitchen,5,2024-08-04,x
+Plant 32,monstera,Kitchen,5,2024-05-02,xxxxxxxxxxxxxxxxxxx
+Plant 33,zz-plant,Office,5,2025-03-22,xxxxxxxxxx
+Plant 34,snake-plant,Office,14,2023-07-05,xxxxxxxxxxxxxxxx
+Plant 35,pothos,Kitchen,14,2020-11-05,xxxxxxxxxxx
+Plant 36,monstera,Office,10,2025-11-11,xxxxxxxxxxxxxxxxxx
+Plant 37,snake-plant,Bedroom,14,2025-11-27,xxxx
+Plant 38,zz-plant,Kitchen,14,2024-10-17,

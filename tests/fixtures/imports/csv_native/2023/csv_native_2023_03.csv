@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,pothos,Living Room,7,2020-08-20,xxxxxxx
+Plant 1,snake-plant,Bedroom,14,2024-11-09,xxxxxxxx
+Plant 2,snake-plant,Office,5,2025-05-04,xxxxxxxxxxx
+Plant 3,snake-plant,Kitchen,7,2022-09-23,xxxxxxxxxxxx
+Plant 4,snake-plant,Bedroom,5,2021-03-04,xxxxxxxxxx
+Plant 5,zz-plant,Bedroom,7,2022-06-22,xxxxxxxxxxxxxx
+Plant 6,snake-plant,Office,10,2019-07-25,xxxxxxxxxxxxxx
+Plant 7,monstera,Office,10,2023-10-26,xx
+Plant 8,snake-plant,Office,7,2025-01-24,xxxxxxx
+Plant 9,snake-plant,Kitchen,7,2022-10-17,xxxxxxxxxx
+Plant 10,zz-plant,Living Room,5,2022-08-20,xx
+Plant 11,snake-plant,Bedroom,7,2022-01-22,xxxxx
+Plant 12,monstera,Living Room,7,2025-11-10,xxxx
+Plant 13,zz-plant,Bedroom,5,2024-10-10,xxxxxxxxxxxxxxxxxx
+Plant 14,monstera,Living Room,14,2024-06-16,xxxx
+Plant 15,snake-plant,Living Room,14,2024-03-22,xxxxx
+Plant 16,zz-plant,Kitchen,10,2023-01-26,xxxxxxxxxxxx
+Plant 17,snake-plant,Living Room,5,2021-10-17,xxxxxxxxxxxxxxxxxx
+Plant 18,zz-plant,Living Room,7,2025-05-25,xxxxxxx
+Plant 19,pothos,Kitchen,14,2024-11-03,xxxxxxxxxxx
+Plant 20,zz-plant,Bedroom,5,2023-01-25,xxxxxxx
+Plant 21,zz-plant,Kitchen,14,2021-12-11,xxxxxxxxxxxx
+Plant 22,pothos,Bedroom,7,2023-11-24,xxxxxxxxxxxxxxxxxx
+Plant 23,zz-plant,Office,7,2024-09-01,xxxxxxxxxxxxxxxx
+Plant 24,pothos,Kitchen,14,2020-03-14,xxxxxxxxxxxxxxxx
+Plant 25,pothos,Bedroom,14,2023-05-01,xxxxx
+Plant 26,zz-plant,Living Room,10,2025-05-08,xxxxxxxxxxx
+Plant 27,pothos,Kitchen,7,2024-11-22,
+Plant 28,zz-plant,Living Room,10,2019-07-06,xxxxxxxxxxxxx
+Plant 29,monstera,Office,7,2024-06-01,xxxxxxxx
+Plant 30,zz-plant,Office,10,2022-04-25,xxxxxxxxxxxxxxxxx
+Plant 31,snake-plant,Office,7,2025-06-10,
+Plant 32,snake-plant,Kitchen,5,2025-07-13,x
+Plant 33,snake-plant,Office,7,2020-06-19,xxxxxxxxxxxxxxxxx
+Plant 34,monstera,Office,10,2024-04-12,xxx
+Plant 35,monstera,Living Room,10,2023-01-25,xxxxxxx
+Plant 36,snake-plant,Kitchen,5,2023-10-01,xxxxx
+Plant 37,pothos,Office,7,2020-04-15,xxxxxxxxxxxxxxxxxxx
