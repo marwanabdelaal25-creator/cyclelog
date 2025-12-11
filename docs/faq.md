@@ -116,3 +116,4 @@ bike = storage.create_bike(Bike.create("New Friend", service_interval_days=7))
 
 Public API surface is in `cyclelog.__init__` — bikes, service, schedules, parsers,
 validators, errors.
+- faq 0
