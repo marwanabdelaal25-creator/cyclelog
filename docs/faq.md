@@ -118,3 +118,4 @@ Public API surface is in `cyclelog.__init__` — bikes, service, schedules, pars
 validators, errors.
 - faq 0
 - faq 1
+- faq 2
